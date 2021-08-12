@@ -1,0 +1,1 @@
+(()=>{"use strict";var t=document.createElement("button");t.textContent="Typescript Yeah!",document.body.appendChild(t)})();
